@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeTest", "MemeTest\MemeTest.csproj", "{709414F0-3EF3-4A64-8675-4F1A79A44E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTest", "GameTest\GameTest.csproj", "{9A4502A1-6B8E-457E-8F31-C6757FD38C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709414F0-3EF3-4A64-8675-4F1A79A44E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709414F0-3EF3-4A64-8675-4F1A79A44E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709414F0-3EF3-4A64-8675-4F1A79A44E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709414F0-3EF3-4A64-8675-4F1A79A44E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4502A1-6B8E-457E-8F31-C6757FD38C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4502A1-6B8E-457E-8F31-C6757FD38C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4502A1-6B8E-457E-8F31-C6757FD38C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4502A1-6B8E-457E-8F31-C6757FD38C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174C8DA8-E267-40FE-964D-1C66A5D3214E}
+	EndGlobalSection
+EndGlobal
